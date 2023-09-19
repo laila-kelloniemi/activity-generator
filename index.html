@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- METATAGS -->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Activity Generator</title>
+        <meta name="description" content="Banish boredom with the Activity Generator - your go-to destination for hand-picked, instantly generated activities to keep you entertained and engaged. Click to unveil a world of fun activities tailored just for you. Say goodbye to boredom and hello to endless enjoyment with Activity Generator.">
+        <meta name="author" content="Laila Kelloniemi">
+
+        <!-- FONTS -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap" rel="stylesheet">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+
+        <!-- STYLES -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+                
+        <div class="fieldset-container" role="group">
+            <fieldset class="app-content-container"><legend>BORED</legend>
+            
+                <h1 id="title">FUN/GEN</h1>
+                <!--the activities are rendered to h4 with JS-->
+                <h4 id="activity" aria-live="polite">Find something fun to do</h4>
+                <img class="arrow-img" alt="an arrow pointing to button" src="images/arrow.png" />
+                <button id="get-activity" aria-label="Generate Activity"></button>
+            
+            </fieldset>
+            <fieldset aria-hidden="true"><legend>BORED</legend></fieldset>
+            <fieldset aria-hidden="true"><legend>BORED</legend></fieldset>     
+            <fieldset aria-hidden="true"><legend>BORED</legend></fieldset>
+        </div>
+
+        <script src="index.js"></script>
+    </body>
+</html>
