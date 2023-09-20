@@ -18,7 +18,8 @@ The Activity Generator is incredibly easy to use. To get started, simply open th
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1)    
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)    
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)    
-![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)    
+![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)  
++ RESTful API
 
 <p>&nbsp;</p>
 
@@ -52,8 +53,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-+ Project Link: []()  
-+ Activity Generator url: []()  
++ Project Link: [https://github.com/laila-kelloniemi/activity-generator](https://github.com/laila-kelloniemi/activity-generator)  
++ Activity Generator url: [https://activity-generator-genfun.netlify.app/](https://activity-generator-genfun.netlify.app/)  
 + [Laila Kelloniemi Github profile](https://github.com/laila-kelloniemi)   
 + [LinkedIn](https://www.linkedin.com/in/laila-kelloniemi)   
 
@@ -65,6 +66,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 + [BoredBot API](https://www.boredapi.com/)
 + [Scrimba](https://scrimba.com/)  
 + [Netlify](https://www.netlify.com/)
+  <br/>
+  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+  <br/>
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <p>&nbsp;</p>
